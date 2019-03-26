@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_modular_headers!
+target 'WLHudUtilDemo' do
+
+pod 'SVProgressHUD'
+
+end
+
