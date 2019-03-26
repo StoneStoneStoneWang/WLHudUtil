@@ -22,6 +22,7 @@ s.source = { :git => "https://github.com/StoneStoneStoneWang/WLHudUtil.git", :ta
 
 s.source_files = "Code/**/*.{swift}"
 
+s.dependency 'SVProgressHUD'
 end
 
 
