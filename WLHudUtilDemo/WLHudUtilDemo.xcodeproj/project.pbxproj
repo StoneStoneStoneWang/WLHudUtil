@@ -53,7 +53,7 @@
 		6C61417F224A09EA003955D6 /* WLHudUtilDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WLHudUtilDemoUITests.swift; sourceTree = "<group>"; };
 		6C614181224A09EA003955D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C61418E224A0A3C003955D6 /* WLHudUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WLHudUtil.swift; sourceTree = "<group>"; };
-		6C614190224A0A4A003955D6 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		6C614190224A0A4A003955D6 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C8D8B092B400A91B3C17697F /* Pods-WLHudUtilDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WLHudUtilDemo.release.xcconfig"; path = "Target Support Files/Pods-WLHudUtilDemo/Pods-WLHudUtilDemo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
