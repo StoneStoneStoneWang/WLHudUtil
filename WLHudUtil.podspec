@@ -16,6 +16,10 @@ s.ios.deployment_target = "9.0"
 
 s.swift_version = '4.2'
 
+s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
+
+s.static_framework = true
+
 s.frameworks = 'UIKit', 'Foundation'
 
 s.source = { :git => "https://github.com/StoneStoneStoneWang/WLHudUtil.git", :tag => "#{s.version}" }
@@ -23,6 +27,7 @@ s.source = { :git => "https://github.com/StoneStoneStoneWang/WLHudUtil.git", :ta
 s.source_files = "Code/**/*.{swift}"
 
 s.dependency 'SVProgressHUD'
+
 end
 
 
