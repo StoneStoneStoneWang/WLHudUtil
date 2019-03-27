@@ -9,12 +9,13 @@
 import Foundation
 import SVProgressHUD
 
-@objc public class WLHudUtil: NSObject {
+@objc public final class WLHudUtil: NSObject {
     
-    @objc static let `default`: WLHudUtil = WLHudUtil()
+    @objc public static let `default`: WLHudUtil = WLHudUtil()
     
     private override init() { }
 }
+
 extension WLHudUtil {
     
     @objc public func configHud() {
