@@ -31,7 +31,7 @@ extension WLHudUtil {
     
     @objc public func showActivity() {  SVProgressHUD.show() }
     
-    @objc func showInfo(msg: String) { SVProgressHUD.showInfo(withStatus: msg) }
+    @objc public func showInfo(msg: String) { SVProgressHUD.showInfo(withStatus: msg) }
     
     @objc public func showInfoWithStatus(msg: String) { SVProgressHUD.show(withStatus: msg) }
     

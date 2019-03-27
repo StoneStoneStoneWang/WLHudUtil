@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "WLHudUtil"
-s.version      = "0.0.3"
+s.version      = "0.0.4"
 s.summary      = "A Lib For hud."
 s.description  = <<-DESC
 WLHudUtil一个对SVProgressHud的封装
